@@ -8,3 +8,5 @@
 | 3 | Connect Solana Wallet | - | [github](https://github.com/methlox/solana-wallet)
 | 4 | Send Sol to Phantom Wallet | - | [github](https://github.com/methlox/solana-wallet-send-sol)
 | 5 | Write Movie Reviews on a Solana Blockchain | - | [github](https://github.com/methlox/solana-movie)
+| 6 | Mint your NFTS-Frontend | https://nft-mint-hazel.vercel.app/ | [github](https://github.com/methlox/NFT-Mint)
+| 7 | Mint SickSock Token usign Metaplex | - | [github](https://github.com/methlox/TokenMint)
