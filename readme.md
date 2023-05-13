@@ -10,3 +10,4 @@
 | 5 | Write Movie Reviews on a Solana Blockchain | - | [github](https://github.com/methlox/solana-movie)
 | 6 | Mint your NFTS-Frontend | [go](https://nft-mint-hazel.vercel.app/) | [github](https://github.com/methlox/NFT-Mint)
 | 7 | Mint SickSock Token usign Metaplex | - | [github](https://github.com/methlox/TokenMint)
+| 8 | Rust Basics | - | [github](https://github.com/methlox/The-Crab-Lang)
