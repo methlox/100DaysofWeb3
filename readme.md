@@ -11,3 +11,4 @@
 | 6 | Mint your NFTS-Frontend | [go](https://nft-mint-hazel.vercel.app/) | [github](https://github.com/methlox/NFT-Mint)
 | 7 | Mint SickSock Token usign Metaplex | - | [github](https://github.com/methlox/TokenMint)
 | 8 | Rust Basics | - | [github](https://github.com/methlox/The-Crab-Lang)
+| 9 | Mint NFTs using Metaplex | - | [github](https://github.com/methlox/NFT)
