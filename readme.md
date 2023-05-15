@@ -12,3 +12,4 @@
 | 7 | Mint SickSock Token usign Metaplex | - | [github](https://github.com/methlox/TokenMint)
 | 8 | Rust Basics | - | [github](https://github.com/methlox/The-Crab-Lang)
 | 9 | Mint NFTs using Metaplex | - | [github](https://github.com/methlox/NFT)
+| 10 | Candy Machine-Frontend | - | [github](https://github.com/methlox/Candy-Machine)
